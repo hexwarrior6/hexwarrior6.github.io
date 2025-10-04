@@ -230,6 +230,5 @@ jekyll_compose:
   default_front_matter:
     posts:
       description:
-      media_subpath: "/assets/img/posts/替换成文件名"
       categories: []
       tags: []
