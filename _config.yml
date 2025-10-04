@@ -16,7 +16,7 @@ timezone: Asia/Shanghai (CST)
 
 title: HexWarrior6 # the main title
 
-tagline: 不堆砌理论，只分享 “学了就能用” 的干货与方法 # it will display as the subtitle
+tagline: Discovery requires experimentation # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   专注计算机领域实用干货，拒绝理论堆砌，只分享「学了就能用」的实操方法。从系统优化、工具配置到开发相关技巧，每篇内容都聚焦 “落地性”，帮程序员、技术学习者快速解决实际问题，提升效率。
