@@ -52,16 +52,19 @@ script_includes:
       <div class="d-flex justify-content-between">
         <!-- author(s) -->
         <div>
+          <!-- reposted article information block -->
           {% if page.original_url %}
           <div class="post-meta text-muted">
+            {% if page.original_author %}
             <span>
               {{ site.data.locales[lang].post.original_written_by }}
               <em>
                 {% if page.original_author %}{{ page.original_author }}{% else
-                %}Unknown Author{% endif %}
+                %}{{ site.data.locales[lang].post.original_author }}{% endif %}
               </em>
             </span>
             <br />
+            {% endif %}
             <span class="text-muted">
               {{ site.data.locales[lang].post.reposted_from }}
               <a
@@ -69,16 +72,18 @@ script_includes:
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                {{ page.original_site | default:
+                {{ page.original_source | default:
                 site.data.locales[lang].post.original_source }}
               </a>
             </span>
           </div>
           {% else %}
+          <!-- original article information block -->
           <span>
             {% if page.author %} {% assign authors = page.author %} {% elsif
             page.authors %} {% assign authors = page.authors %} {% endif %} {{
             site.data.locales[lang].post.written_by }}
+
             <em>
               {% if authors %} {% for author in authors %} {% if
               site.data.authors[author].url -%}
