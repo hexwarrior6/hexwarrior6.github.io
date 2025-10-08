@@ -1,0 +1,224 @@
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="401px" height="242px" viewBox="-0.5 -0.5 401 242" content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2024-08-02T00:20:15.972Z&quot; agent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0&quot; etag=&quot;RQQk-DXmE4c475ZCx7En&quot; version=&quot;24.7.1&quot; type=&quot;device&quot; scale=&quot;1&quot; border=&quot;20&quot;&gt;
+  &lt;diagram name=&quot;第 1 页&quot; id=&quot;nLp7sSqtwdLQizWgf_mA&quot;&gt;
+    &lt;mxGraphModel dx=&quot;1059&quot; dy=&quot;556&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1200&quot; pageHeight=&quot;1169&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;
+      &lt;root&gt;
+        &lt;mxCell id=&quot;0&quot; /&gt;
+        &lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;
+        &lt;mxCell id=&quot;Hm68Ta9aP5r4GFcABlb0-3&quot; value=&quot;备用手机&quot; style=&quot;sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;200&quot; y=&quot;200&quot; width=&quot;30&quot; height=&quot;50&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;Hm68Ta9aP5r4GFcABlb0-5&quot; value=&quot;随身手机&quot; style=&quot;verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;440&quot; y=&quot;200&quot; width=&quot;35&quot; height=&quot;50&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;Hm68Ta9aP5r4GFcABlb0-6&quot; value=&quot;&quot; style=&quot;shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=none;dashed=1;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;410&quot; y=&quot;70&quot; width=&quot;120&quot; height=&quot;130&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;Hm68Ta9aP5r4GFcABlb0-8&quot; value=&quot;企业微信&quot; style=&quot;rounded=1;whiteSpace=wrap;html=1;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;430&quot; y=&quot;80&quot; width=&quot;80&quot; height=&quot;30&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;Hm68Ta9aP5r4GFcABlb0-9&quot; value=&quot;&quot; style=&quot;shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=none;dashed=1;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;170&quot; y=&quot;70&quot; width=&quot;120&quot; height=&quot;130&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;Hm68Ta9aP5r4GFcABlb0-12&quot; style=&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;Hm68Ta9aP5r4GFcABlb0-10&quot; target=&quot;Hm68Ta9aP5r4GFcABlb0-11&quot;&gt;
+          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;Hm68Ta9aP5r4GFcABlb0-10&quot; value=&quot;短信来了&quot; style=&quot;rounded=1;whiteSpace=wrap;html=1;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;190&quot; y=&quot;80&quot; width=&quot;80&quot; height=&quot;30&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;Hm68Ta9aP5r4GFcABlb0-13&quot; style=&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;Hm68Ta9aP5r4GFcABlb0-11&quot; target=&quot;Hm68Ta9aP5r4GFcABlb0-8&quot;&gt;
+          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;Hm68Ta9aP5r4GFcABlb0-11&quot; value=&quot;转发APP&quot; style=&quot;rounded=1;whiteSpace=wrap;html=1;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;190&quot; y=&quot;130&quot; width=&quot;80&quot; height=&quot;30&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+      &lt;/root&gt;
+    &lt;/mxGraphModel&gt;
+  &lt;/diagram&gt;
+&lt;/mxfile&gt;
+" style="background-color: rgb(255, 255, 255);">
+   <defs>
+   </defs>
+   <rect fill="#ffffff" width="100%" height="100%" x="0" y="0">
+   </rect>
+   <g>
+    <g data-cell-id="0">
+     <g data-cell-id="1">
+      <g data-cell-id="Hm68Ta9aP5r4GFcABlb0-3">
+       <g>
+        <g>
+         <rect x="50" y="150" width="30" height="50" fill="none" stroke="none" pointer-events="all">
+         </rect>
+         <path d="M 51.4 199.99 C 50.99 199.95 50.61 199.74 50.36 199.41 C 50.1 199.08 50 198.65 50.07 198.23 L 50.07 151.51 C 50.07 150.73 50.64 150.08 51.4 150.01 L 78.42 150.01 C 78.82 150 79.2 150.15 79.48 150.44 C 79.77 150.72 79.93 151.11 79.93 151.51 L 79.93 198.23 C 80 198.67 79.88 199.13 79.59 199.46 C 79.3 199.8 78.88 200 78.45 199.99 Z M 65.07 198.99 C 66.22 198.91 67.12 197.95 67.14 196.78 C 67.15 195.59 66.24 194.6 65.07 194.52 C 63.86 194.52 62.88 195.5 62.85 196.73 C 62.85 197.98 63.85 198.99 65.07 198.99 Z M 76.72 193.52 L 76.72 155.43 L 53.23 155.43 L 53.23 193.52 Z M 68.13 185.03 C 67.99 185.5 67.57 185.81 67.09 185.81 C 66.62 185.81 66.2 185.5 66.06 185.03 L 66.06 181.87 L 63.89 181.87 L 63.89 185.03 C 63.71 185.43 63.32 185.68 62.9 185.68 C 62.48 185.68 62.09 185.43 61.91 185.03 L 61.91 181.87 L 61.02 181.87 C 60.27 181.8 59.69 181.14 59.69 180.37 L 59.69 171.89 L 70.3 171.89 L 70.3 180.37 C 70.35 181.1 69.87 181.75 69.17 181.92 L 68.08 181.92 Z M 71.39 172.79 C 71.5 172.28 71.94 171.92 72.45 171.92 C 72.96 171.92 73.4 172.28 73.51 172.79 L 73.51 179.01 C 73.37 179.47 72.95 179.79 72.47 179.79 C 72 179.79 71.58 179.47 71.44 179.01 Z M 58.56 179.01 C 58.42 179.47 58 179.79 57.52 179.79 C 57.05 179.79 56.63 179.47 56.48 179.01 L 56.48 172.79 C 56.63 172.33 57.05 172.01 57.52 172.01 C 58 172.01 58.42 172.33 58.56 172.79 Z M 59.2 170.68 C 59.26 168.8 60.27 167.07 61.86 166.11 L 60.93 164.46 C 60.89 164.32 60.96 164.17 61.1 164.13 C 61.24 164.09 61.38 164.17 61.42 164.31 L 62.26 165.86 C 63.99 164.94 66.06 164.94 67.79 165.86 L 68.62 164.21 C 68.72 164.08 68.9 164.06 69.02 164.16 C 69.14 164.25 69.16 164.43 69.07 164.56 L 68.28 166.06 C 69.83 167.07 70.78 168.81 70.8 170.68 Z M 62.26 168.47 C 62.41 168.52 62.58 168.49 62.71 168.39 C 62.84 168.29 62.91 168.14 62.9 167.97 C 62.91 167.84 62.87 167.7 62.79 167.6 C 62.71 167.5 62.59 167.43 62.46 167.42 C 62.3 167.39 62.14 167.43 62.02 167.54 C 61.9 167.65 61.84 167.81 61.86 167.97 C 61.86 168.21 62.03 168.42 62.26 168.47 Z M 67.93 168.47 C 68.15 168.41 68.29 168.2 68.28 167.97 C 68.29 167.83 68.25 167.69 68.15 167.58 C 68.06 167.48 67.93 167.42 67.79 167.42 C 67.63 167.39 67.47 167.43 67.35 167.54 C 67.23 167.65 67.17 167.81 67.19 167.97 C 67.17 168.16 67.25 168.35 67.41 168.46 C 67.57 168.57 67.77 168.57 67.93 168.47 Z M 61.77 153.32 L 68.28 153.32 L 68.28 152.16 L 61.77 152.16 Z" fill="#00188d" stroke="none" pointer-events="all">
+         </path>
+        </g>
+        <g>
+         <g transform="translate(-0.5 -0.5)">
+          <switch>
+           <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 207px; margin-left: 65px;">
+             <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+               
+               
+               
+               备用手机
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="41" y="207.5" width="48" height="17"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="Hm68Ta9aP5r4GFcABlb0-5">
+       <g>
+        <g>
+         <rect x="290" y="150" width="35" height="50" fill="none" stroke="none" pointer-events="all">
+         </rect>
+         <path d="M 290.09 153.88 C 290 152.86 290.37 151.85 291.11 151.12 C 291.85 150.38 292.89 150 293.94 150.06 L 321.36 150.06 C 323.31 150.06 324.92 151.54 325 153.43 L 325 196.83 C 324.9 198.34 323.81 199.61 322.29 200 L 292.9 200 C 291.46 199.7 290.35 198.59 290.09 197.18 Z M 301.64 151.72 C 301.19 151.86 300.88 152.27 300.88 152.73 C 300.88 153.19 301.19 153.59 301.64 153.73 L 313.61 153.73 C 314.06 153.59 314.37 153.19 314.37 152.73 C 314.37 152.27 314.06 151.86 313.61 151.72 Z M 293.58 155.24 L 293.58 191.35 L 321.62 191.35 L 321.62 155.24 Z M 304.76 194.47 C 304.12 194.47 303.59 194.97 303.59 195.6 C 303.59 196.22 304.12 196.73 304.76 196.73 L 310.64 196.73 C 311.29 196.73 311.81 196.22 311.81 195.6 C 311.81 194.97 311.29 194.47 310.64 194.47 Z" fill="#00bef2" stroke="none" pointer-events="all">
+         </path>
+        </g>
+        <g>
+         <g transform="translate(-0.5 -0.5)">
+          <switch>
+           <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 207px; margin-left: 308px;">
+             <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+               
+               
+               
+               随身手机
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="284" y="207.5" width="48" height="17"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="Hm68Ta9aP5r4GFcABlb0-6">
+       <g>
+        <g>
+         <path d="M 260 20 L 380 20 L 380 120 L 340 120 L 320 150 L 320 120 L 260 120 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="all">
+         </path>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="Hm68Ta9aP5r4GFcABlb0-8">
+       <g>
+        <g>
+         <rect x="280" y="30" width="80" height="30" rx="4.5" ry="4.5" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all">
+         </rect>
+        </g>
+        <g>
+         <g transform="translate(-0.5 -0.5)">
+          <switch>
+           <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 45px; margin-left: 281px;">
+             <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+               
+               
+               
+               企业微信
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="281" y="38.5" width="78" height="17"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="Hm68Ta9aP5r4GFcABlb0-9">
+       <g>
+        <g>
+         <path d="M 20 20 L 140 20 L 140 120 L 100 120 L 80 150 L 80 120 L 20 120 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="all">
+         </path>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="Hm68Ta9aP5r4GFcABlb0-12">
+       <g>
+        <g>
+         <path d="M 80 60 L 80 73.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke">
+         </path>
+         <path d="M 80 78.88 L 76.5 71.88 L 80 73.63 L 83.5 71.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all">
+         </path>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="Hm68Ta9aP5r4GFcABlb0-10">
+       <g>
+        <g>
+         <rect x="40" y="30" width="80" height="30" rx="4.5" ry="4.5" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all">
+         </rect>
+        </g>
+        <g>
+         <g transform="translate(-0.5 -0.5)">
+          <switch>
+           <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 45px; margin-left: 41px;">
+             <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+               
+               
+               
+               短信来了
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="41" y="38.5" width="78" height="17"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="Hm68Ta9aP5r4GFcABlb0-13">
+       <g>
+        <g>
+         <path d="M 120 95 L 200 95 L 200 45 L 273.63 45" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke">
+         </path>
+         <path d="M 278.88 45 L 271.88 48.5 L 273.63 45 L 271.88 41.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all">
+         </path>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="Hm68Ta9aP5r4GFcABlb0-11">
+       <g>
+        <g>
+         <rect x="40" y="80" width="80" height="30" rx="4.5" ry="4.5" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all">
+         </rect>
+        </g>
+        <g>
+         <g transform="translate(-0.5 -0.5)">
+          <switch>
+           <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 95px; margin-left: 41px;">
+             <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+               
+               
+               
+               转发APP
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="41" y="88.5" width="78" height="17"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </svg>
