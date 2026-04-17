@@ -1,0 +1,81 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+.embed-webpage-card {
+  margin: 1.25rem 0;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: var(--language-border-color) 0 0 0 1px;
+  background-color: var(--card-bg);
+}
+
+.embed-webpage-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--language-border-color);
+  background-color: var(--highlight-bg-color);
+}
+
+.embed-webpage-meta {
+  min-width: 0;
+}
+
+.embed-webpage-title {
+  display: block;
+  color: var(--heading-color);
+  font-size: 0.95rem;
+  line-height: 1.25;
+}
+
+.embed-webpage-domain {
+  display: block;
+  margin-top: 0.2rem;
+  color: var(--text-muted-color);
+  font-size: 0.78rem;
+  line-height: 1.1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.embed-webpage-badge {
+  flex-shrink: 0;
+  color: var(--text-muted-color);
+  font-size: 0.72rem;
+  line-height: 1;
+  text-transform: lowercase;
+  padding: 0.24rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--language-border-color);
+  background-color: var(--main-bg);
+}
+
+.embed-webpage {
+  display: block;
+  width: 100%;
+  min-height: 25rem;
+  border: 0;
+  background-color: var(--highlight-bg-color);
+}
+
+.embed-webpage-card + em,
+.embed-webpage + em {
+  display: block;
+  text-align: center;
+  font-style: normal;
+  font-size: 80%;
+  padding: 0;
+  color: #6d6c6c;
+}

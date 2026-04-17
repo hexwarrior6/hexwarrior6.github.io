@@ -1,0 +1,24 @@
+{% assign iframe_height = include.height | default: '25rem' %}
+{% assign iframe_badge = include.badge | default: 'iframe' %}
+{% assign display_domain = include.src | strip | replace: 'https://', '' | replace: 'http://', '' | replace: '//', '' | split: '/' | first | split: '?' | first | split: '#' | first %}
+
+<div class="embed-webpage-card">
+  <div class="embed-webpage-header">
+    <div class="embed-webpage-meta">
+      <strong class="embed-webpage-title">{{ iframe_title }}</strong>
+      {% if display_domain != '' %}
+        <span class="embed-webpage-domain">{{ display_domain }}</span>
+      {% endif %}
+    </div>
+
+    <span class="embed-webpage-badge">{{ iframe_badge }}</span>
+  </div>
+
+  <iframe
+    class="embed-webpage"
+    loading="lazy"
+    src="{{ include.src }}"
+    style="height: {{ iframe_height }};"
+    frameborder="0"
+  ></iframe>
+</div>
