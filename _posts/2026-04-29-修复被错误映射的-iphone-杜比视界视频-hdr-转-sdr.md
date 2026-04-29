@@ -3,7 +3,7 @@ layout: post
 title: 修复被错误映射的 iPhone 杜比视界视频（HDR 转 SDR）
 date: 2026-04-29
 description: 使用 DaVinci Resolve 通过 Color Space Transform 将错误解析的 HDR 视频还原为正常 SDR 显示
-categories: [视频剪辑]
+categories: [摄影, 视频剪辑]
 tags: [HDR, DaVinciResolve, 视频修复]
 ---
 
