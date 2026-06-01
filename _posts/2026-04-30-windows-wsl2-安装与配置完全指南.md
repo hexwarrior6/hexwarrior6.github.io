@@ -107,3 +107,19 @@ systemd=true
 networkingMode=mirror
 ```
 关闭 WSL 等待 8 秒后生效
+
+### 解决局域网访问问题（不打开会导致无法从局域网访问 WSL2 上部署的服务）
+```powershell
+# 开启所有wsl所有服务端口(方法一)
+Set-NetFirewallHyperVVMSetting -Name '{40E0AC32-46A5-438A-A0B2-2B479E8F2E90}' -DefaultInboundAction Allow
+# 查看yper-V防火墙配置规则
+Get-NetFirewallHyperVRule -VMCreatorId '{40E0AC32-46A5-438A-A0B2-2B479E8F2E90}'
+# 重置所有wsl所有服务端口(也可恢复默认值None或NotConfigured)
+Set-NetFirewallHyperVVMSetting -Name '{40E0AC32-46A5-438A-A0B2-2B479E8F2E90}' -DefaultInboundAction Block
+
+# 仅开启指定端口(方法二)
+## -Name:起服务名，-DisplayName:服务显示名
+New-NetFirewallHyperVRule -Name "MyWebServer" -DisplayName "My Web Server" -Direction Inbound -VMCreatorId '{40E0AC32-46A5-438A-A0B2-2B479E8F2E90}' -Protocol TCP -LocalPorts 80
+```
+
+![WSL2关闭局域网防火墙](./disable-wsl2-lan-firewall.avif)
